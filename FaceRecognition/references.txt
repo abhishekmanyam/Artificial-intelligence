@@ -1,0 +1,6 @@
+github.com/krishnaik06/Gender-recognition-and-Age-Estimator
+
+github.com/habram/FaceRecognition
+
+
+pytorials.com/face-detection-matching-using-facenet/
